@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Tutorial
 
 This tutorial will show and explain the settings made to realistically visualize water coming out of the tap with the Flex Particle System. As far as possible, a good compromise between performance savings and visualization was the goal. As a result, the individual settings of the emitter, the Flex container and the Flex Fluid Surface are discussed.
@@ -33,3 +34,6 @@ The surface rendering is configured using Flex Fluid Surface templates. The flui
 
 A more detailed explanation of the settings can be found under this [link](http://docs.nvidia.com/gameworks/content/artisttools/Flex/FLEXUe4_FluidSurfaceRendering.html#creating-a-flex-fluid-surface).
 
+=======
+# Tutorial PX
+>>>>>>> upstream/master

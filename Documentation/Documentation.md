@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Documentation
 
 At the beginning of the project Nvidia Flex had to be installed. For this, a separate version of the Unreal Engine had to be [downloaded](https://github.com/NvPhysX/UnrealEngine/tree/FleX-4.17.1) in which Flex is implemented. To start the download you have [to set up](https://www.unrealengine.com/en-US/ue4-on-github) a GitHub account and add the corresponding repository. In addition, a registration with Nvidia is required.
@@ -16,3 +17,6 @@ Since even with optimized collision query the Flex particles repeatedly penetrat
 
 Finally, the sink from the blueprint replaced the standard sink of the RobCoG project and serves as a new sink for the simulation environment. ![](Img/SinkInRobCoG.JPG "SinkInRobCoG")
 The particle system has been optimized by its settings in such a way that a realistic impression of water is created and nevertheless works very well.
+=======
+# Documentation PX
+>>>>>>> upstream/master
