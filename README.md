@@ -1,6 +1,6 @@
 # UR17
 Unreal Robots (2017-18) master project repository
-<iframe width="560" height="315" src="https://youtu.be/zgriCXSO_es" frameborder="0" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/zgriCXSO_es)
 
 # Info
 
