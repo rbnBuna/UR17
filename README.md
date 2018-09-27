@@ -1,6 +1,6 @@
 # UR17
 Unreal Robots (2017-18) master project repository
-![](https://thumbs.gfycat.com/AchingSecondaryHypacrosaurus-size_restricted.gif)
+
 # Info
 
 * each branch belongs to a given subproject, e.g. `ur17-p1` belongs to subproject P1
